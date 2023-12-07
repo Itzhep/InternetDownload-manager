@@ -5,4 +5,4 @@ Install my-project with npm
 ```bash
   python3 main.py
   ```
-  ## make =sure check config.ini  
+  ## make sure check config.ini  
